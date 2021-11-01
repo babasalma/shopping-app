@@ -1,1 +1,1 @@
-welcome to git traning. git is open source
+welcome to git traning. git is open source, git is distributed
